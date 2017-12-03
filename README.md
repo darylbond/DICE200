@@ -24,6 +24,7 @@ There are number of things that I would like to change if I was to make another 
 * Only need single screws on the floor plate instead of the two per location as currently used.
 * Allow for the radiator to be detached without needing to undo the hoses.
 * Allow the hot-end assembly to be removed without the heatsink. This would allow easier maintenance of the filament path, nozzle, etc.
+* Give more room around z-axis stepper motor to allow for installation/removal without having to move one of the adjoining spacers.
 * more when I think of them...
 
 
