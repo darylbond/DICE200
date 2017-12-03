@@ -11,7 +11,6 @@ The files currently available are the AS BUILT files. This means that it is a di
 ### Files
 
 * STEP
-* XB
 
 ### Possible upgrades
 
