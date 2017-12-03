@@ -2,6 +2,8 @@
 
 This the DICE300 3D printer. It is an original design heavily inspired by the original DICE by [Rene Jurack](http://well-engineered.net). The printer is approximately a cube of 300mm outside dimension with approximately 200mm cube build area. All parts are designed to be made with either a CNC router and/or lathe.
 
+![DICE300 iso view](/photos/in_use.jpg?raw=true)
+
 ## Version 1
 
 The files currently available are the AS BUILT files. This means that it is a direct representation of the 3D printer that I have built. It includes all of the mistakes and work-arounds that this entails. If you are looking through the models and find things that don't make a lot of sense, chances are that it is a fix that I had to introduce after finding a problem with my design and then modifying the design without changing already made parts. An example of this are the two spacers on the coolant splitter block which were introduced after changing some plate thicknesses from 4mm to 3mm after I had already made the splitter block.
