@@ -1,6 +1,6 @@
-# DICE300
+# DICE200
 
-This the DICE300 3D printer. It is an original design heavily inspired by the original DICE by [Rene Jurack](http://well-engineered.net). The printer is approximately a cube of 300mm outside dimension with approximately 200mm cube build area. All parts are designed to be made with a CNC router and/or lathe.
+This the DICE200 3D printer. It is an original design heavily inspired by the original DICE by [Rene Jurack](http://well-engineered.net). The printer is approximately a cube of 300mm outside dimension with approximately 200mm cube build area. All parts are designed to be made with a CNC router and/or lathe.
 
 ![DICE300 iso view](/photos/in_use.jpg?raw=true)
 
